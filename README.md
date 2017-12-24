@@ -14,3 +14,6 @@ root
 ## Extra Dependencies: (Kevin's Model)
 
 glove.6B.zip from https://nlp.stanford.edu/projects/glove/
+
+A version of the cleaned dataset (run through word_cleaning.ipynb) is available at:
+https://www.dropbox.com/sh/jexwh9w7jk7igq6/AACBQpIt86nzxL82euobU2tpa?dl=0
