@@ -2,5 +2,5 @@ Single RNN network approach gets 0.047 on public LB.  Predictions on entire trai
 
 Next on TODO list: 
 
-1) Clean training/test comments (autocorrection) and re-train network.
-2) Develop badwords count vectors as comment encoding and try to train a RF/XGB model on this.
+1) Develop badwords count vectors as comment encoding and try to train a RF/XGB model on this.
+2) Standardize splits and start stacking!
