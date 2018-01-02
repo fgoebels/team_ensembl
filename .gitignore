@@ -134,3 +134,6 @@ venv.bak/
 # data
 *.csv
 *.tsv
+
+# pickled objects
+*.pkl
